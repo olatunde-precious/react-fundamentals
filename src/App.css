@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+.title{
+    text-align: center;
+    font-size: 40px;
+    font-style: oblique;
+}
